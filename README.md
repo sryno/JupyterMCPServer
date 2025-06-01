@@ -31,8 +31,8 @@ A basic mechanism for API key authentication is included, but should be replaced
 #### Using Docker (Recommended)
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/sryno/JupyterMCPServer.git
+cd JupyterMCPServer
 
 # Build the Docker image
 docker build -t jupyter-code-execution .
